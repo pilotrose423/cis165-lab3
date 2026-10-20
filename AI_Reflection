@@ -1,0 +1,10 @@
+AI Reflection
+
+Tools Used
+  - I used Microsoft Copilot to help breakdown the assignment details into simpler terms, review my code style, and to            explain how integer division and the modulus operator work.
+One Decision 
+  - One prompt I used was: "Explain how to convert minutes into hours and remaining minutes using C++ integer division and        modulus in simple terms with an example."
+Verification
+  - I compared the output of game_time.cpp against the calculations I did myself. For example, 78 minutes should equal 1 hour     and 18 minutes. The program produced the same result, confirming the calculations were correct. I also compared every         line of diamond.cpp with the pattern given to me to make sure the spaces and stars matched the provided exmaple. 
+Learning 
+  - I can now explain how integer division and the modulus operator work together to convert minutes into hours and minutes.      I can also create a simple formatted output program using cout statements. I still need more practice with writing larger     programs and debugging syntax errors without any outside help
